@@ -1,0 +1,12 @@
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\bin\Debug\netcoreapp3.1\ProductCase.Dto.deps.json
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\bin\Debug\netcoreapp3.1\ProductCase.Dto.dll
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\bin\Debug\netcoreapp3.1\ProductCase.Dto.pdb
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.csprojAssemblyReference.cache
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.AssemblyInfoInputs.cache
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.AssemblyInfo.cs
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.csproj.CoreCompileInputs.cache
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.dll
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.pdb
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\bin\Debug\netcoreapp3.1\ProductCase.Common.dll
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\bin\Debug\netcoreapp3.1\ProductCase.Common.pdb
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Dto\obj\Debug\netcoreapp3.1\ProductCase.Dto.csproj.CopyComplete

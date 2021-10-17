@@ -1,0 +1,9 @@
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\bin\Debug\netcoreapp3.1\ProductCase.Caching.deps.json
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\bin\Debug\netcoreapp3.1\ProductCase.Caching.dll
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.csprojAssemblyReference.cache
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.AssemblyInfoInputs.cache
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.AssemblyInfo.cs
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\bin\Debug\netcoreapp3.1\ProductCase.Caching.pdb
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.dll
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.pdb
+C:\Users\Celil Ercan\Documents\GitHub\ProductCase\ProductCase.Caching\obj\Debug\netcoreapp3.1\ProductCase.Caching.csproj.CoreCompileInputs.cache

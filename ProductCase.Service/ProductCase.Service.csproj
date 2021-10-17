@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ProductCase.Caching\ProductCase.Caching.csproj" />
+    <ProjectReference Include="..\ProductCase.Common\ProductCase.Common.csproj" />
+    <ProjectReference Include="..\ProductCase.Data\ProductCase.Data.csproj" />
+    <ProjectReference Include="..\ProductCase.Dto\ProductCase.Dto.csproj" />
+  </ItemGroup>
+
+</Project>

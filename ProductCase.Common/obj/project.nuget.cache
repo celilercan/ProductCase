@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8B27nGGYLKFg/aHqFdZpWV/3t02wdDEPyulpZqYc50qgnfYdn4yVGLWLRfC/29Plg0GCjxJebi/tY55wHIuEWg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Celil Ercan\\Documents\\GitHub\\ProductCase\\ProductCase.Common\\ProductCase.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Celil Ercan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
