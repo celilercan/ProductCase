@@ -12,7 +12,8 @@ namespace ProductCase.Data
 
         public DbSet<Product> Product { get; set; }
         public DbSet<ProductCategory> ProductCategory { get; set; }
-        public DbSet<CategoryAttribute> Attribute { get; set; }
+        public DbSet<CategoryAttribute> CategoryAttribute { get; set; }
+        public DbSet<ProductAttribute> productAttribute { get; set; }
 
     }
 }
